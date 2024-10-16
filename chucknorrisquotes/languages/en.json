@@ -1,0 +1,25 @@
+{
+  "plugin-data": {
+    "name": "Chuck Norris Quotes",
+    "description": "This plugin provides random Chuck Norris quotes for your Bludit site."
+  },
+  "show-last-quote": "Last quote fetched",
+  "interval": "Interval",
+  "interval-hourly": "Hourly",
+  "interval-daily": "Daily",
+  "interval-weekly": "Weekly",
+  "interval-none": "Paused (no automatic refresh)",
+  "help-interval": "How often the quote should be refreshed",
+  "request-uri": "Request URI",
+  "help-requesturi": "The full address for requesting a new quote, without parameters",
+  "category-uri": "Category URI",
+  "help-requesturi": "The full address for requesting a list of available categories, without parameters",
+  "category": "Category",
+  "categories-last-fetched": "Categories last updated",
+  "any-category": "Any category",
+  "help-category": "From which category a quote should be requested",
+  "usage-header": "Usage",
+  "usage-help": "Simply put [chucknorrisquote], [chucknorrisquote][/chucknorrisquote], or [chucknorrisquote/] somewhere in a page's content. You may, of course, surround the tag by HTML to change the appearance of the quote.",
+  "quote-disclaimer": "Please note that some quotes may contain offensive language. The plugin author assumes no responsibility for the content of these quotes.",
+  "quote-sponsor": "If you like the service provided by, for example, api.chucknorris.io, you may want to consider sponsoring them."
+}

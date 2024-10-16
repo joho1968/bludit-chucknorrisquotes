@@ -1,0 +1,25 @@
+{
+  "plugin-data": {
+    "name": "Chuck Norris-citat",
+    "description": "Detta tillägg tillhandahåller slumpmässiga citat tillägnade Chuck Norris för din Bludit-sajt."
+  },
+  "show-last-quote": "Senast hämtat citat",
+  "interval": "Intervall",
+  "interval-hourly": "En gång per timme",
+  "interval-daily": "En gång per dag",
+  "interval-weekly": "En gång per vecka",
+  "interval-none": "Pausad (ingen automatisk hämtning)",
+  "help-interval": "Hur ofta citatet skall uppdateras",
+  "request-uri": "Webbadress för citat",
+  "help-requesturi": "Hela URLen för att hämta ett citat, utan parametrar",
+  "category-uri": "Webbadress för kategorier",
+  "help-requesturi": "Hela URLen för att hämta citat-kategorier, utan parametrar",
+  "category": "Kategori",
+  "categories-last-fetched": "Kategorier senast uppdaterade",
+  "any-category": "Alla kategorier",
+  "help-category": "Från vilken kategori citat skall hämtas",
+  "usage-header": "Användning",
+  "usage-help": "Skriv bara [chucknorrisquote], [chucknorrisquote][/chucknorrisquote] eller [chucknorrisquote/] någonstans i en sidas innehåll. Du kan självklart använda HTML runt detta för att påverka hur citat visas.",
+  "quote-disclaimer": "Vänligen notera att en del citat kan uppfattas som grova i språket eller på annat sätt störa dig och/eller dina besökare. Författaren till insticksprogrammet tar inget ansvar för citatens innehåll.",
+  "quote-sponsor": "Om du uppskattar tjänsten api.chucknorris.io som används av detta insticksprogram så kanske du kan fundera över att bidra till driften av den sajten."
+}
